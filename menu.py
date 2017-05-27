@@ -55,3 +55,5 @@ class Menu(object):
         posts = blog.get_posts()
         for post in posts:
             print("Date: {}, title: {}\n\n{}".format(post['created_date'], post['title'], post['content']))
+
+    # this is a test
