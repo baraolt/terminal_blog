@@ -7,6 +7,7 @@ Database.initialize()
 menu = Menu()
 menu.run_menu()
 
+# THIS IS A TEST BRANCH
 # post = Post("Post1 title", "Post1 content", "Greg")
 
 # post = Post(blog_id="123",
